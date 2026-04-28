@@ -1,0 +1,12 @@
+{
+  "name": "practice-9-express",
+  "version": "1.0.0",
+  "description": "Practice 9 - First RESTful Endpoint with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
